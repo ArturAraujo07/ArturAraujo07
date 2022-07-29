@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 My name is Artur...</h1>
-<h3 align="center">FullStack Developer with emphasis in Back-end</h3><br><br>
+<h3 align="center">FullStack Developer with focus in Back-end</h3><br><br>
 
 
 ![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturaraujo07&hide=contribs,prs&theme=github_dark)
